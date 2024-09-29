@@ -2,7 +2,7 @@
 
 This repository contains three distinct Discord bots, each utilizing large language models (LLMs) for different purposes: **Syntax**, **Satoshi**, and **Lain**. Each bot provides unique functionalities, from coding assistance to image analysis and conversational interactions.
 
-## Bots Overview:
+## Whisper Overview:
 - **Syntax**: A bot designed to assist with code generation, code improvement, debugging, and explanations using a coding-focused LLM model.
 - **Satoshi**: A bot designed for image analysis, allowing users to upload images for detailed LLM-powered insights.
 - **Lain**: A conversational bot designed for reflective interactions, leveraging an LLM model to respond intelligently to user prompts.
