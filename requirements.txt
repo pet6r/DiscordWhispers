@@ -1,0 +1,6 @@
+discord.py
+ollama
+python-dotenv
+requests
+pillow
+asyncio
