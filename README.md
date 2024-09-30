@@ -10,7 +10,7 @@ This repository contains three distinct Discord bots, each utilizing large langu
 ## Requirements:
 - Python 3.8+
 - Discord bot tokens for each respective bot
-- An active Ollama API running locally 
+- Ollama
   
 ## Installation:
 1. **Clone the Repository**:
@@ -54,7 +54,7 @@ This repository contains three distinct Discord bots, each utilizing large langu
      ```
 
 ## Customization:
-- **Changing the LLM Model**: Each bot uses a different LLM model by default (e.g., `deepseek-coder-v2` for Syntax, `dolphin-llama3:8b` for Lain). You can update and change  the models used by editing the `chat_with_*` function inside each bot's script.
+- **Changing the LLM Model**: Each bot uses a different LLM model by default (e.g., `deepseek-coder-v2` for Syntax, `dolphin-llama3:8b` for Lain). You can update the models by editing the `chat_with_*` function inside each bot's script. Use Ollama to download various models.
 
 ## Usage Examples:
 1. **Syntax**:
